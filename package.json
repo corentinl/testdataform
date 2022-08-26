@@ -1,0 +1,6 @@
+{
+  "name": "group-data-idl-dev-dataform-repo",
+  "dependencies": {
+    "@dataform/core": "2.0.0"
+  }
+}
